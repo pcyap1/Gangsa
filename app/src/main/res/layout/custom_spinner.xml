@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+    This is the layout for the spinner (aka dropdown menu).
+-->
+
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    style="?attr/spinnerDropDownItemStyle"
+    android:singleLine="true"
+    android:layout_width="330dp"
+    android:layout_height="30dp"
+    android:ellipsize="marquee"
+    android:textColor="#FFFFFF"
+    android:background="#000000"
+    android:backgroundTint="#7b1113"
+    android:fontFamily="sans-serif-condensed-medium"
+    />
